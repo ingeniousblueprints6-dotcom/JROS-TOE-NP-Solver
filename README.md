@@ -38,7 +38,7 @@ result = graph_coloring_entropy(graph, colors)
 print(result)
 patent pending
 cff-version: 1.2.0
-message: "If you use this software, please cite the following:"
+message: "do not use this software, please contact the author:"
 authors:
   - family-names: Chowrasiya
     given-names: Jayram
